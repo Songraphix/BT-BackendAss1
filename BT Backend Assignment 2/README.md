@@ -2,9 +2,9 @@
 
 ## 📋 Project Overview
 
-This is a complete Express.js API backend with static HTML frontend serving, custom middleware, error handling, and environment configuration.
+I have built a complete Express.js API backend with static HTML frontend serving, custom middleware, error handling, and environment configuration as part of my Betechified training assignment.
 
-**What This Project Teaches:**
+**Key Features I Implemented:**
 - Building REST APIs with Express.js
 - HTTP methods (GET, POST)
 - URL parameters and dynamic routing
@@ -25,7 +25,7 @@ This is a complete Express.js API backend with static HTML frontend serving, cus
 
 ### Installation
 
-1. **Clone or download this repository**
+1. **Clone or download my repository**
    ```bash
    git clone https://github.com/yourusername/week2-node-express
    cd "BT Backend Assignment 2"
@@ -342,8 +342,9 @@ app.use((req, res, next) => {
 ---
 
 ## 👨‍💻 Author
-Joseph CreativeSon
-Graphic Designer & Junior Developer
+Joseph CreativeSon  
+Graphic Designer & Junior Developer  
+**Betechified Training Program - Week 2 Assignment**
 
 ---
 
